@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Adinda Salsbaila, a passionate developer and creative thinker. My journey in the world of technology and design is driven by a love for crafting elegant and efficient solutions. This portfolio showcases my projects, skills, and experiences in web development, software engineering, and beyond.
+Hello! I'm Adinda Salsabila, a passionate developer and creative thinker. My journey in the world of technology and design is driven by a love for crafting elegant and efficient solutions. This portfolio showcases my projects, skills, and experiences in web development, software engineering, and beyond.
 
 ## Portfolio
 
