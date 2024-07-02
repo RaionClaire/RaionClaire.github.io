@@ -11,7 +11,7 @@ tags:
   - Python
 
 ---
-> Link Project (On GitHub): <a href="https:github.com/RaionChan/Face_Recognition" target="_blank">Face Recognition Attendance System</a>
+> Link Project (On GitHub): <a href="https://github.com/RaionChan/Face_Recognition" target="_blank">Face Recognition Attendance System</a>
 
 
 Welcome to our Face Recognition Attendance System! This project is designed to streamline attendance tracking using face recognition technology. With a user-friendly interface built using Tkinter and powerful image processing via OpenCV (cv2), taking attendance has never been easier! 🥳
