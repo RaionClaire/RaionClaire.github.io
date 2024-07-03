@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-    site: 'https://raionclaire.github.io',
-    
+    site: 'https://raionclaire.github.io', 
 });
