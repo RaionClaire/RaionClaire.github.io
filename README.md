@@ -10,6 +10,6 @@ You can see my portfolio <a href="RaionClaire.github.io/">here</a>.
 
 ## Contact
 
-Feel free to reach out to me for collaboration, opportunities, or just a friendly chat about technology and design. You can contact me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me for collaboration, opportunities, or just a friendly chat about technology and design. You can connect with me on [LinkedIn](https://www.linkedin.com/in/adindasalsabila1).
 
 Thank you for visiting my portfolio! Let's create something amazing together.
